@@ -1,37 +1,9 @@
 {
   "courses": [
     {
-      "id": 1,
-      "title": "Securing React Apps with Auth0",
-      "slug": "react-auth0-authentication-security",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
-      "id": 2,
-      "title": "React: The Big Picture",
-      "slug": "react-big-picture",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 3,
       "title": "Creating Reusable React Components",
       "slug": "react-creating-reusable-components",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
-      "id": 4,
-      "title": "Building a JavaScript Development Environment",
-      "slug": "javascript-development-environment",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
-      "id": 5,
-      "title": "Building Applications with React and Redux",
-      "slug": "react-redux-react-router-es6",
       "authorId": 1,
       "category": "JavaScript"
     },
@@ -69,38 +41,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "testing",
-      "authorId": 2,
-      "category": "dev",
-      "title": "testing_2",
-      "createdAt": 1615020306490
-    },
-    {
-      "id": 12,
-      "slug": "dkjdhjkdj",
-      "authorId": 2,
-      "category": "jkndjnknfs",
-      "title": "dkjdhjkdj",
-      "createdAt": 1615020440946
-    },
-    {
-      "id": 13,
-      "slug": "kjdkjsdj",
-      "authorId": 2,
-      "category": "mbsn",
-      "title": "kjdkjsdj",
-      "createdAt": 1615020825930
-    },
-    {
-      "id": 14,
-      "slug": "hdrgjyjty",
-      "authorId": 2,
-      "category": "ggergwerg",
-      "title": "hdrgjyjty",
-      "createdAt": 1615021667253
     }
   ],
   "authors": [
